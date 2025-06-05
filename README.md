@@ -43,7 +43,7 @@ Spheron Network BOT
 </div>
 
 - **id_tokens.txt:** You will find the file `id_tokens.txt` inside the project directory. Make sure `id_tokens.txt` contains data that matches the format expected by the script. Here are examples of file formats:
-  ```json
+  ```bash
     your_id_token_1
     your_id_token_2
   ```
