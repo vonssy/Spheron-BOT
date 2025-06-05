@@ -13,7 +13,7 @@ Spheron Network BOT
   - Auto Run Without Proxy - `Choose 3`
   - Auto Rotate Invalid Proxies - `y` or `n`
   - Auto Perform Spin
-  - Multi Accounts With Threads
+  - Multi Accounts
 
 ## Requiremnets
 
