@@ -356,7 +356,7 @@ class Spheron:
                         )
 
                         email, exp_time = self.decode_id_token(id_token)
-                        if not "@" in email or not id_token:
+                        if not email or not exp_time:
                             self.log(
                                 f"{Fore.CYAN+Style.BRIGHT}Status:{Style.RESET_ALL}"
                                 f"{Fore.RED+Style.BRIGHT} Invalid Id Token {Style.RESET_ALL}"
